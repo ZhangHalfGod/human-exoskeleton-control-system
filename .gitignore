@@ -1,0 +1,40 @@
+# 编译输出
+build/
+dist/
+*.o
+*.so
+*.dll
+*.exe
+
+# 依赖
+node_modules/
+venv/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 文档
+*.pdf
+*.docx
+
+# 日志
+*.log
+logs/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 配置文件
+.env
+*.config
+
+# 3D模型临时文件
+*.tmp
+*.bak
